@@ -1,0 +1,24 @@
+header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	h1 {
+		margin: 20px;
+		padding: 10px 20px;
+		background-color: $bard;
+	}
+	.character-info {
+		display: grid;
+		grid-template-columns: auto auto;
+		background-color: $sorcerer;
+		border: 5px solid black;
+		gap: 10px;
+		p {
+			margin: 10px;
+
+			span {
+				font-weight: bold;
+			}
+		}
+	}
+}

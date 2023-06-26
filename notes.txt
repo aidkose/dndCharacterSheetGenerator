@@ -4,24 +4,26 @@ Pages:
     Spells
 
 Things we need - Main Skills Page:
-    Character name
-    Class/Level
-    Race
-    Background
-    Alignment
-    Proficiency Bonus
-    Skills
-    AC
-    Initiative
-    Speed
-    Hitpoints
-        Hitdice
-        Temp Hitpoints
-        Death Saves
-    Skills
-    Attributes
-    Passive Perception
-    Proficiencies
-    Languages
-    Equipment
-    Features & Traits
+    Header:
+        Character name
+        Class/Level
+        Race
+        Background
+        Alignment
+    Main Section:
+        Proficiency Bonus
+        Skills
+        AC
+        Initiative
+        Speed
+        Hitpoints
+            Hitdice
+            Temp Hitpoints
+            Death Saves
+        Skills
+        Attributes
+        Passive Perception
+        Proficiencies
+        Languages
+        Equipment
+        Features & Traits

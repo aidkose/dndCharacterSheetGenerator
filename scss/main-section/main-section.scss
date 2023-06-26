@@ -1,0 +1,25 @@
+.attributes {
+	display: flex;
+	flex-direction: column;
+	max-width: 120px;
+	background-color: blue;
+
+	.attribute {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		background-color: aqua;
+		margin: 10px;
+
+		.attr-score {
+			background-color: pink;
+			width: 35px;
+			height: 25px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			border-radius: 10px 10px 0 0;
+		}
+	}
+}
